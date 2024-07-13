@@ -1,2 +1,2 @@
 # test
-This is a description.
+This is a testing repository that I use to learn about GitHub
